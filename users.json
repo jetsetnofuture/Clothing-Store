@@ -1,0 +1,56 @@
+[
+  {
+    "email": "test@test.com",
+    "password": "djalsdfkjasdlfj"
+  },
+  {
+    "email": "fakeemail@test.com",
+    "password": "badpassword",
+    "id": "4730b734"
+  },
+  {
+    "email": "testing@test.com",
+    "password": "8271b6988b02cf81598946b706c0832ce118179ba1328d7c6413db105bbab079f4ceb321a3b249428a0b70b2fda23bf2016762bc9e3ebb8520d028295c42c6f8.de9d223650fed0ad",
+    "id": "71332925"
+  },
+  {
+    "email": "fulltest@test.com",
+    "password": "feeeb0ec3bd57af364c8c4faf6f78f14923ca76904fd9bddd3c57f182f9b096c153feaa73decd6b25b597b0a6921b57f6611053790e8e5306f56f11fb04a6b0b.907e1678f99a70a1",
+    "id": "5ad69009"
+  },
+  {
+    "email": "testytest@test.com",
+    "password": "9555dcf1c8ac5b9be00bb060c0ebe2f1d3d2b1d0a17be15e41649845674cc2870f71a2b940937ea9d4278aa990405638129c3db9dab5def8d9deedd63eb9da59.779c6bf2942c7a64",
+    "id": "c50244e4"
+  },
+  {
+    "email": "test19@test.com",
+    "password": "8336579c72f3779fbeed94953582f79bd310a69fdf08d0888e32e45bb55e63fc59b87da325be356492f88282f2b33392619b26b9a14f1ba497b9cdf1998bcb63.8439e637e7e05905",
+    "id": "6dff824d"
+  },
+  {
+    "email": "finaltest@test.com",
+    "password": "282d93d17a20c45908b1994da34616c875eb3bcd081a1760c31b971aa4645390ecc0ed0da1e0f93377d2cba9a469c63a23aa7ae6219ab3933763ac8b0fdfa8dd.bf34536574564504",
+    "id": "19d0127a"
+  },
+  {
+    "email": "indexy@index.com",
+    "password": "3bfa208a6bafde408621a85ec26fd0b0d06bf07683e44e0c9d64bdb5635e44bda836ad1181b99f805c6ef70a1eb577e55d5936dc2c143302e5f614d8e83071eb.ea0064c819b53928",
+    "id": "f73fbd6e"
+  },
+  {
+    "email": "indextest@index.com",
+    "password": "6844ddad7e92325624507c25b5bde1628ed7d6dadbe51fad1c0f56b057c3dcbd13af208c868ca10309360cb67e35fde878a655f8b86c157f30c9a996b777e359.9206aa82a1c1691e",
+    "id": "4de1e987"
+  },
+  {
+    "email": "testtest@test.com",
+    "password": "f2ffb0a4009a754f6792954f79a34f21a72ba34e6775599600c54b892209e72411ad9408484eacf3a18143fca7ca3e1cc0783a437b6162aec2aec1d7407869f1.a584260f631a5875",
+    "id": "0e6b6649"
+  },
+  {
+    "email": "badkitties4lyfe@truckeroni.com",
+    "password": "14fed1b6654b70a6d89fd3c8d3051fa7eaa26b11835ce3f0e07dd29d16fd5ecf03e0b950062e34325b6224b10ca964041b44bef7b61aba92fc198fa9545b8a62.dff416ccbf4728c7",
+    "id": "fa36b37d"
+  }
+]
