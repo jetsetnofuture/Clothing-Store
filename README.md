@@ -1,4 +1,4 @@
-# JS-EcommStorePage
+# Ecomm Store Page
 A functioning eCommerce store page with a cart you can add items to, built with JS and Express.
 
 ## How to Use
