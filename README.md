@@ -1,18 +1,21 @@
-# Ecomm Store Page
+# Clothing Store
 A functioning eCommerce store page with a cart you can add items to, built with JS and Express.
 
 ## How to Use
 * In the CLI, run "npm run dev". The main page will be located on "localhost:3000"
 * All the product, cart, and user data is stored locally with the project
 
-## Things I Learned
-* Implementing and routing a multi-page site with a products page, cart page, and an admin page while using Express and multiple databases to track product and user data
-* Used BCrypt hashing to encrypt user passwords for all users in user database
-* Used Express Validator and Cookie Session to implement production-level validation and authentication to increase the page's data security
-* Coded in persistence of cart data that survives after page refresh
-* Using a repository class to organize methods that are reused between the products, cart, and users
+## Stack
+* JavaScript
+  * Implementing and routing a multi-page site with a products page, cart page, and an admin page while using Express and multiple databases to track product and user data
+  * Coded in persistence of cart data that survives after page refresh
+  * Used a repository class to organize methods that are reused between the products, cart, and users 
+* Express
+  * Used Express Validator and Cookie Session to implement production-level validation and authentication to increase the page's data security 
+* Node
+  * Used BCrypt hashing to encrypt user passwords for all users in user database 
 
-## To-Do List
+## Upcoming Features
 - [ ] Update UI to include the user's name in the nav
 - [ ] Improve UI for different screen sizes
 - [ ] Add separate pages to sort the featured items into different categories (by gender and by item type)
